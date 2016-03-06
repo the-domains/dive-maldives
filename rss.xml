@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dive the Maldives]]></title>
+        <description><![CDATA[Dive the Maldives]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 06 Mar 2016 10:20:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introducing the Maldives]]></title>
+            <description><![CDATA[<article><h1>Introducing the Maldives</h1><p>The Maldives consist of a number of islands along the Indian Ocean just off the coast of India. These islands are well known for their clear blue waters that run deep, lovely, white sandy beaches and plenty of marine life. The islands are very popular with local and foreign tourists. Visitors from around the world flock these islands for the exciting sea life Maldives has to offer. Maldives seal life includes the following</p></article>]]></description>
+            <link>undefined790b627c-364b-4634-b8bf-bc7bb3eb2d2f/index.html</link>
+            <guid isPermaLink="false">790b627c-364b-4634-b8bf-bc7bb3eb2d2f</guid>
+            <pubDate>Sun, 06 Mar 2016 10:20:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
