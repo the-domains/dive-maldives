@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T10:22:52.780Z'
-dateModified: '2016-03-06T10:22:52.416Z'
+datePublished: '2016-03-06T10:48:42.020Z'
+dateModified: '2016-03-06T10:48:34.941Z'
 title: Diving in The Maldives
+author: []
+sourcePath: _posts/2016-03-06-diving-in-the-maldives.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-03-06-diving-in-the-maldives.md
-published: true
 url: diving-in-the-maldives/index.html
 _type: Article
 
